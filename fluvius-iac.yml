@@ -1,0 +1,4 @@
+name: Terrafrom Docker Sample
+desc: Sample terraform recipe
+engine: terrafrom
+workdir: terraform
